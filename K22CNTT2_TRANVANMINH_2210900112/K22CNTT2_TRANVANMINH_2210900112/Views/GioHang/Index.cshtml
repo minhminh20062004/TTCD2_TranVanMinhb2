@@ -1,0 +1,130 @@
+﻿@{
+    ViewBag.Title = "Giỏ Hàng";
+}
+
+<h2>Giỏ Hàng</h2>
+
+<style>
+    <style >
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f8f9fa;
+        margin: 0;
+        padding: 20px;
+    }
+
+    h2 {
+        text-align: center;
+        color: #333;
+        margin-bottom: 20px;
+    }
+
+    .table {
+        width: 100%;
+        margin: 20px 0;
+        border-collapse: collapse;
+        border-radius: 10px;
+        overflow: hidden;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        background-color: white;
+    }
+
+        .table th,
+        .table td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .table th {
+            background-color: #007bff;
+            color: white;
+            font-weight: bold;
+        }
+
+        .table tr:hover {
+            background-color: #f1f1f1;
+        }
+
+    .btn-primary {
+        background-color: #007bff;
+        color: white;
+        padding: 5px 10px;
+        border: none;
+        border-radius: 5px;
+        text-decoration: none;
+        transition: background-color 0.3s, transform 0.3s;
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3; /* Tối màu khi hover */
+            transform: scale(1.05); /* Phóng to khi hover */
+        }
+
+    .btn-danger {
+        background-color: #dc3545;
+        color: white;
+        padding: 5px 10px;
+        border: none;
+        border-radius: 5px;
+        text-decoration: none;
+        transition: background-color 0.3s, transform 0.3s;
+    }
+
+        .btn-danger:hover {
+            background-color: #c82333; /* Tối màu khi hover */
+            transform: scale(1.05); /* Phóng to khi hover */
+        }
+
+    .form-control {
+        display: inline-block;
+        width: auto;
+        margin-right: 10px;
+    }
+</style>
+
+</style>
+
+@if (Model.Count == 0)
+{
+    <p>Giỏ hàng của bạn hiện đang trống.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Tên Sách</th>
+                <th>Giá</th>
+                <th>Số Lượng</th>
+                <th>Thành Tiền</th>
+                <th>Hành Động</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.TenSach</td>
+                    <td>@item.Gia.ToString("C")</td>
+                    <td>
+                        <form action="@Url.Action("UpdateQuantity", "GioHang")" method="post" style="display:inline;">
+                            <input type="hidden" name="id" value="@item.SachID" />
+                            <input type="number" name="quantity" value="@item.SoLuong" min="1" class="form-control" />
+                            <button type="submit" class="btn btn-primary btn-sm">Cập Nhật</button>
+                        </form>
+                    </td>
+                    <td>@(item.Gia * item.SoLuong).ToString("C")</td>
+                    <td>
+                        <a href="@Url.Action("RemoveFromCart", "GioHang", new { id = item.SachID })" class="btn btn-danger btn-sm">Xóa</a>
+                    </td>
+                </tr>
+            }
+            <tr>
+                <td colspan="3"><strong>Tổng cộng</strong></td>
+               
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+}

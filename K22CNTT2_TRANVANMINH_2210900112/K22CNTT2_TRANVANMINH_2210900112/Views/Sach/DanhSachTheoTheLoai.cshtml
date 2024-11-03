@@ -1,0 +1,44 @@
+﻿
+@{
+    ViewBag.Title = $"Sách Thuộc Thể Loại: {ViewBag.TenTheLoai}";
+}
+
+<h2>@ViewBag.TenTheLoai</h2>
+
+<div class="book-list">
+    @foreach (var sach in Model)
+    {
+        <div class="book-item">
+            <h3>@sach.TieuDe</h3>
+            <p><strong>Tác giả:</strong> @sach.TacGia</p>
+            <p><strong>Giá:</strong> @sach.Gia.ToString("C")</p>
+            @if (!string.IsNullOrEmpty(sach.HinhAnh))
+            {
+                <img src="@Url.Content("~/" + sach.HinhAnh)" alt="@sach.TieuDe" />
+            }
+            <p><a href="@Url.Action("Details", "Sach", new { id = sach.MaSach })" class="btn btn-secondary">Xem chi tiết</a></p>
+        </div>
+    }
+</div>
+
+<style>
+    .book-list {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+
+    .book-item {
+        width: 200px;
+        text-align: center;
+        border: 1px solid #ddd;
+        padding: 15px;
+        border-radius: 5px;
+    }
+
+        .book-item img {
+            width: 100%;
+            height: auto;
+            margin-bottom: 10px;
+        }
+</style>

@@ -1,0 +1,141 @@
+﻿@model IEnumerable<K22CNTT2_TRANVANMINH_2210900112.Models.NguoiDung>
+
+@{
+    ViewBag.Title = "Tạo tài khoản cho khách hàng";
+}
+
+<h2>Tạo tài khoản cho khách hàng</h2>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f8f9fa;
+        margin: 0;
+        padding: 20px;
+    }
+
+    h2 {
+        text-align: center;
+        color: #333;
+        margin-bottom: 20px;
+    }
+
+    .table {
+        width: 100%;
+        margin: 20px 0;
+        border-collapse: collapse;
+        border-radius: 10px;
+        overflow: hidden;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        background-color: white;
+    }
+
+        .table th,
+        .table td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .table th {
+            background-color: #007bff;
+            color: white;
+            font-weight: bold;
+        }
+
+        .table tr:hover {
+            background-color: #f1f1f1;
+        }
+
+    .btn-primary {
+        background-color: #007bff;
+        color: white;
+        padding: 5px 10px;
+        border: none;
+        border-radius: 5px;
+        text-decoration: none;
+        transition: background-color 0.3s, transform 0.3s;
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3; /* Tối màu khi hover */
+            transform: scale(1.05); /* Phóng to khi hover */
+        }
+
+    .btn-danger {
+        background-color: #dc3545;
+        color: white;
+        padding: 5px 10px;
+        border: none;
+        border-radius: 5px;
+        text-decoration: none;
+        transition: background-color 0.3s, transform 0.3s;
+    }
+
+        .btn-danger:hover {
+            background-color: #c82333; /* Tối màu khi hover */
+            transform: scale(1.05); /* Phóng to khi hover */
+        }
+
+    .action-links {
+        display: flex;
+        gap: 10px; /* Khoảng cách giữa các link */
+    }
+</style>
+
+
+<p>
+    @Html.ActionLink("Tạo mới", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            <span class="control-label col-md-2">Tên đăng nhập </span>
+        </th>
+        <th>
+            <span class="control-label col-md-2">Mật khẩu </span>
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Email)
+        </th>
+        <th>
+            <span class="control-label col-md-2">Họ Tên </span>
+        </th>
+        <th>
+            <span class="control-label col-md-2">Địa chỉ</span>
+        </th>
+        <th>
+            <span class="control-label col-md-2">Số điện thoại </span>
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenDangNhap)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MatKhau)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HoTen)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiaChi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoDienThoai)
+            </td>
+            <td>
+                @Html.ActionLink("Sửa", "Edit", new { id = item.MaNguoiDung }) |
+                @Html.ActionLink("Thông tin", "Details", new { id = item.MaNguoiDung }) |
+                @Html.ActionLink("Xoá", "Delete", new { id = item.MaNguoiDung })
+            </td>
+        </tr>
+    }
+
+</table>

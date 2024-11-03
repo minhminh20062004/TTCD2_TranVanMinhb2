@@ -1,0 +1,463 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\k22cntt2_tranvanminh_2210900112\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|solutionrelative:k22cntt2_tranvanminh_2210900112\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\k22cntt2_tranvanminh_2210900112\\views\\admins\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|solutionrelative:k22cntt2_tranvanminh_2210900112\\views\\admins\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\k22cntt2_tranvanminh_2210900112\\views\\sach\\danhsachtheotheloai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|solutionrelative:k22cntt2_tranvanminh_2210900112\\views\\sach\\danhsachtheotheloai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\k22cntt2_tranvanminh_2210900112\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|solutionrelative:k22cntt2_tranvanminh_2210900112\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\k22cntt2_tranvanminh_2210900112\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|solutionrelative:k22cntt2_tranvanminh_2210900112\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\k22cntt2_tranvanminh_2210900112\\views\\admins\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|solutionrelative:k22cntt2_tranvanminh_2210900112\\views\\admins\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\k22cntt2_tranvanminh_2210900112\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|solutionrelative:k22cntt2_tranvanminh_2210900112\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\k22cntt2_tranvanminh_2210900112\\views\\nguoidung\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|solutionrelative:k22cntt2_tranvanminh_2210900112\\views\\nguoidung\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|c:\\users\\user\\source\\repos\\k22cntt2_tranvanminh_2210900112\\k22cntt2_tranvanminh_2210900112\\views\\admins\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|solutionrelative:k22cntt2_tranvanminh_2210900112\\views\\admins\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\k22cntt2_tranvanminh_2210900112\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|solutionrelative:k22cntt2_tranvanminh_2210900112\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|c:\\users\\user\\source\\repos\\k22cntt2_tranvanminh_2210900112\\k22cntt2_tranvanminh_2210900112\\views\\nguoidung\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|solutionrelative:k22cntt2_tranvanminh_2210900112\\views\\nguoidung\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\k22cntt2_tranvanminh_2210900112\\controllers\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|solutionrelative:k22cntt2_tranvanminh_2210900112\\controllers\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\k22cntt2_tranvanminh_2210900112\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|solutionrelative:k22cntt2_tranvanminh_2210900112\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\k22cntt2_tranvanminh_2210900112\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|solutionrelative:k22cntt2_tranvanminh_2210900112\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\k22cntt2_tranvanminh_2210900112\\views\\admins\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|solutionrelative:k22cntt2_tranvanminh_2210900112\\views\\admins\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\k22cntt2_tranvanminh_2210900112\\views\\nguoidung\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|solutionrelative:k22cntt2_tranvanminh_2210900112\\views\\nguoidung\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\k22cntt2_tranvanminh_2210900112\\views\\nguoidung\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|solutionrelative:k22cntt2_tranvanminh_2210900112\\views\\nguoidung\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\k22cntt2_tranvanminh_2210900112\\views\\admins\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|solutionrelative:k22cntt2_tranvanminh_2210900112\\views\\admins\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\k22cntt2_tranvanminh_2210900112\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|solutionrelative:k22cntt2_tranvanminh_2210900112\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\k22cntt2_tranvanminh_2210900112\\content\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|solutionrelative:k22cntt2_tranvanminh_2210900112\\content\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\k22cntt2_tranvanminh_2210900112\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|solutionrelative:k22cntt2_tranvanminh_2210900112\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\k22cntt2_tranvanminh_2210900112\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|solutionrelative:k22cntt2_tranvanminh_2210900112\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\k22cntt2_tranvanminh_2210900112\\controllers\\qu\u1EA3ntr\u1ECBvi\u00EAncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|solutionrelative:k22cntt2_tranvanminh_2210900112\\controllers\\qu\u1EA3ntr\u1ECBvi\u00EAncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\k22cntt2_tranvanminh_2210900112\\views\\giohang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|solutionrelative:k22cntt2_tranvanminh_2210900112\\views\\giohang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\k22cntt2_tranvanminh_2210900112\\controllers\\sachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|solutionrelative:k22cntt2_tranvanminh_2210900112\\controllers\\sachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\k22cntt2_tranvanminh_2210900112\\views\\sach\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|solutionrelative:k22cntt2_tranvanminh_2210900112\\views\\sach\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\k22cntt2_tranvanminh_2210900112\\models\\tvm_project2.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{BE06DBF4-3817-43BE-B218-7F9722F4AA6C}|K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112.csproj|solutionrelative:k22cntt2_tranvanminh_2210900112\\models\\tvm_project2.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Site.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Content\\Site.css",
+              "RelativeDocumentMoniker": "K22CNTT2_TRANVANMINH_2210900112\\Content\\Site.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Content\\Site.css",
+              "RelativeToolTip": "K22CNTT2_TRANVANMINH_2210900112\\Content\\Site.css",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-30T12:59:01.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "K22CNTT2_TRANVANMINH_2210900112\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "K22CNTT2_TRANVANMINH_2210900112\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T08:04:50.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Views\\Admins\\Index.cshtml",
+              "RelativeDocumentMoniker": "K22CNTT2_TRANVANMINH_2210900112\\Views\\Admins\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Views\\Admins\\Index.cshtml",
+              "RelativeToolTip": "K22CNTT2_TRANVANMINH_2210900112\\Views\\Admins\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T07:52:18.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Views\\TheLoai\\Index.cshtml",
+              "RelativeDocumentMoniker": "K22CNTT2_TRANVANMINH_2210900112\\Views\\TheLoai\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Views\\TheLoai\\Index.cshtml",
+              "RelativeToolTip": "K22CNTT2_TRANVANMINH_2210900112\\Views\\TheLoai\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T12:42:08.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DanhSachTheoTheLoai.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Views\\Sach\\DanhSachTheoTheLoai.cshtml",
+              "RelativeDocumentMoniker": "K22CNTT2_TRANVANMINH_2210900112\\Views\\Sach\\DanhSachTheoTheLoai.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Views\\Sach\\DanhSachTheoTheLoai.cshtml",
+              "RelativeToolTip": "K22CNTT2_TRANVANMINH_2210900112\\Views\\Sach\\DanhSachTheoTheLoai.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T12:44:31.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Views\\NguoiDung\\Details.cshtml",
+              "RelativeDocumentMoniker": "K22CNTT2_TRANVANMINH_2210900112\\Views\\NguoiDung\\Details.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Views\\NguoiDung\\Details.cshtml",
+              "RelativeToolTip": "K22CNTT2_TRANVANMINH_2210900112\\Views\\NguoiDung\\Details.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T06:52:00.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "K22CNTT2_TRANVANMINH_2210900112\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "K22CNTT2_TRANVANMINH_2210900112\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T08:18:18.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Views\\Admins\\Delete.cshtml",
+              "RelativeDocumentMoniker": "K22CNTT2_TRANVANMINH_2210900112\\Views\\Admins\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Views\\Admins\\Delete.cshtml",
+              "RelativeToolTip": "K22CNTT2_TRANVANMINH_2210900112\\Views\\Admins\\Delete.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T18:28:57.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "K22CNTT2_TRANVANMINH_2210900112\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "K22CNTT2_TRANVANMINH_2210900112\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowB4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T07:53:42.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Views\\Admins\\Details.cshtml",
+              "RelativeDocumentMoniker": "K22CNTT2_TRANVANMINH_2210900112\\Views\\Admins\\Details.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Views\\Admins\\Details.cshtml",
+              "RelativeToolTip": "K22CNTT2_TRANVANMINH_2210900112\\Views\\Admins\\Details.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T06:37:27.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Views\\Admins\\Create.cshtml",
+              "RelativeDocumentMoniker": "K22CNTT2_TRANVANMINH_2210900112\\Views\\Admins\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Views\\Admins\\Create.cshtml",
+              "RelativeToolTip": "K22CNTT2_TRANVANMINH_2210900112\\Views\\Admins\\Create.cshtml",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAowKgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T13:05:49.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "K22CNTT2_TRANVANMINH_2210900112\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "K22CNTT2_TRANVANMINH_2210900112\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:43:29.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Views\\NguoiDung\\Index.cshtml",
+              "RelativeDocumentMoniker": "K22CNTT2_TRANVANMINH_2210900112\\Views\\NguoiDung\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Views\\NguoiDung\\Index.cshtml",
+              "RelativeToolTip": "K22CNTT2_TRANVANMINH_2210900112\\Views\\NguoiDung\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T08:23:06.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NguoiDung.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Controllers\\NguoiDung.cs",
+              "RelativeDocumentMoniker": "K22CNTT2_TRANVANMINH_2210900112\\Controllers\\NguoiDung.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Controllers\\NguoiDung.cs",
+              "RelativeToolTip": "K22CNTT2_TRANVANMINH_2210900112\\Controllers\\NguoiDung.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T08:21:14.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Controllers\\AdminsController.cs",
+              "RelativeDocumentMoniker": "K22CNTT2_TRANVANMINH_2210900112\\Controllers\\AdminsController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Controllers\\AdminsController.cs",
+              "RelativeToolTip": "K22CNTT2_TRANVANMINH_2210900112\\Controllers\\AdminsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:52:04.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Views\\NguoiDung\\Create.cshtml",
+              "RelativeDocumentMoniker": "K22CNTT2_TRANVANMINH_2210900112\\Views\\NguoiDung\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Views\\NguoiDung\\Create.cshtml",
+              "RelativeToolTip": "K22CNTT2_TRANVANMINH_2210900112\\Views\\NguoiDung\\Create.cshtml",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAowK4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T06:55:20.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Views\\NguoiDung\\Edit.cshtml",
+              "RelativeDocumentMoniker": "K22CNTT2_TRANVANMINH_2210900112\\Views\\NguoiDung\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Views\\NguoiDung\\Edit.cshtml",
+              "RelativeToolTip": "K22CNTT2_TRANVANMINH_2210900112\\Views\\NguoiDung\\Edit.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowEUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T06:47:31.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TheLoaiController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Controllers\\TheLoaiController.cs",
+              "RelativeDocumentMoniker": "K22CNTT2_TRANVANMINH_2210900112\\Controllers\\TheLoaiController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Controllers\\TheLoaiController.cs",
+              "RelativeToolTip": "K22CNTT2_TRANVANMINH_2210900112\\Controllers\\TheLoaiController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:41:15.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Views\\Admins\\Edit.cshtml",
+              "RelativeDocumentMoniker": "K22CNTT2_TRANVANMINH_2210900112\\Views\\Admins\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Views\\Admins\\Edit.cshtml",
+              "RelativeToolTip": "K22CNTT2_TRANVANMINH_2210900112\\Views\\Admins\\Edit.cshtml",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAowKoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T18:30:31.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GioHangController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Controllers\\GioHangController.cs",
+              "RelativeDocumentMoniker": "K22CNTT2_TRANVANMINH_2210900112\\Controllers\\GioHangController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Controllers\\GioHangController.cs",
+              "RelativeToolTip": "K22CNTT2_TRANVANMINH_2210900112\\Controllers\\GioHangController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAUwG8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:53:36.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "admin.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Content\\admin.css",
+              "RelativeDocumentMoniker": "K22CNTT2_TRANVANMINH_2210900112\\Content\\admin.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Content\\admin.css",
+              "RelativeToolTip": "K22CNTT2_TRANVANMINH_2210900112\\Content\\admin.css",
+              "ViewState": "AgIAACsAAAAAAAAAAADwvzcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-30T18:02:48.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Global.asax.cs",
+              "RelativeDocumentMoniker": "K22CNTT2_TRANVANMINH_2210900112\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Global.asax.cs",
+              "RelativeToolTip": "K22CNTT2_TRANVANMINH_2210900112\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:44:54.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Qu\u1EA3ntr\u1ECBvi\u00EAnController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Controllers\\Qu\u1EA3ntr\u1ECBvi\u00EAnController.cs",
+              "RelativeDocumentMoniker": "K22CNTT2_TRANVANMINH_2210900112\\Controllers\\Qu\u1EA3ntr\u1ECBvi\u00EAnController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Controllers\\Qu\u1EA3ntr\u1ECBvi\u00EAnController.cs",
+              "RelativeToolTip": "K22CNTT2_TRANVANMINH_2210900112\\Controllers\\Qu\u1EA3ntr\u1ECBvi\u00EAnController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:07:35.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Views\\GioHang\\Index.cshtml",
+              "RelativeDocumentMoniker": "K22CNTT2_TRANVANMINH_2210900112\\Views\\GioHang\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Views\\GioHang\\Index.cshtml",
+              "RelativeToolTip": "K22CNTT2_TRANVANMINH_2210900112\\Views\\GioHang\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T12:56:36.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SachController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Controllers\\SachController.cs",
+              "RelativeDocumentMoniker": "K22CNTT2_TRANVANMINH_2210900112\\Controllers\\SachController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Controllers\\SachController.cs",
+              "RelativeToolTip": "K22CNTT2_TRANVANMINH_2210900112\\Controllers\\SachController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:43:16.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Views\\Sach\\Details.cshtml",
+              "RelativeDocumentMoniker": "K22CNTT2_TRANVANMINH_2210900112\\Views\\Sach\\Details.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Views\\Sach\\Details.cshtml",
+              "RelativeToolTip": "K22CNTT2_TRANVANMINH_2210900112\\Views\\Sach\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T12:59:43.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TVM_project2.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Models\\TVM_project2.edmx",
+              "RelativeDocumentMoniker": "K22CNTT2_TRANVANMINH_2210900112\\Models\\TVM_project2.edmx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNTT2_TRANVANMINH_2210900112\\K22CNTT2_TRANVANMINH_2210900112\\Models\\TVM_project2.edmx [Diagram1]",
+              "RelativeToolTip": "K22CNTT2_TRANVANMINH_2210900112\\Models\\TVM_project2.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-10-29T07:50:30.83Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

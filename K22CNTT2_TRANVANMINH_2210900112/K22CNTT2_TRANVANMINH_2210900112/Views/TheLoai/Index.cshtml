@@ -1,0 +1,49 @@
+﻿@model IEnumerable<K22CNTT2_TRANVANMINH_2210900112.Models.TheLoai>
+
+@{
+    ViewBag.Title = "Danh Sách Thể Loại Sách";
+}
+
+<h2>Danh Sách Thể Loại Sách</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Tên Sách</th>
+
+            <th>Ảnh</th>
+            <th>Mô Tả</th> <!-- Cột mô tả -->
+            <th>Giá Tiền</th> <!-- Cột giá tiền -->
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var theLoai in Model)
+        {
+            <tr>
+                <td>@theLoai.TenTheLoai</td>
+                <td>
+                    <img src="@Url.Content("~/Content/img/code.jpg")" alt="@theLoai.TenTheLoai" style="width: 100px; height: auto;" />
+
+                </td>
+                <td>Đọc để giỏi hơn lập trình</td> <!-- Hiển thị mô tả -->
+                <td>45 Tỷ</td> <!-- Hiển thị giá tiền -->
+                <td>
+                    @Html.ActionLink("Xem sách", "DanhSachTheoTheLoai", "Sach", new { theLoaiId = theLoai.MaTheLoai }, new { @class = "btn btn-info" })
+                    @Html.ActionLink("Chỉnh sửa", "Edit", "TheLoai", new { id = theLoai.MaTheLoai }, new { @class = "btn btn-warning" }) <!-- Link chỉnh sửa -->
+                    @Html.ActionLink("Xóa", "Delete", "TheLoai", new { id = theLoai.MaTheLoai }, new { @class = "btn btn-danger", onclick = "return confirm('Bạn có chắc chắn muốn xóa thể loại này?');" }) <!-- Link xóa -->
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<style>
+    .table {
+        margin-top: 20px;
+    }
+
+    img {
+        max-width: 100px; /* Đặt kích thước tối đa cho ảnh */
+        height: auto;
+    }
+</style>
